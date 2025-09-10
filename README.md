@@ -1,8 +1,5 @@
 # 💳 Fraud Transaction Detection using LightGBM
 
-<p align="center">
-  <img src="assets/fraud-detection-banner.png" alt="Fraud Detection Banner" width="80%">
-</p>
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d205c433-9abf-4b67-a3e0-b9058959569a" />
 
